@@ -4,4 +4,4 @@ Manages student enrollment for university or competitive examinations online to 
 This project is created for academic demonstration purpose only Software Configuration Management using Github.
 Student Name:Siri
 Roll Number:25B81A6653
-Class:CSM-A
+Class:B.tech II year/CSE(AI&ML)
